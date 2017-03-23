@@ -25,54 +25,54 @@
 \contentsline {subsection}{\numberline {2.2.3}}{6}
 \contentsline {section}{\numberline {2.3}Wady i s\IeC {\l }abe punkty istniej\IeC {\k a}cych rozwi\IeC {\k a}za\IeC {\'n}}{6}
 \contentsline {subsection}{\numberline {2.3.1}Efektywno\IeC {\'s}\IeC {\'c}}{6}
-\contentsline {subsection}{\numberline {2.3.2}Utrudniony dost\IeC {\k e}p}{6}
+\contentsline {subsection}{\numberline {2.3.2}Utrudniony dost\IeC {\k e}p}{7}
 \contentsline {subsection}{\numberline {2.3.3}Wysokie koszty}{7}
 \contentsline {chapter}{\numberline {3}Dalsze uwagi o edycji i~formatowaniu pracy}{8}
 \contentsline {section}{\numberline {3.1}Bibliografia i przypisy}{8}
-\contentsline {subsubsection}{\IeC {\'Z}r\IeC {\'o}d\IeC {\l }a elektroniczne}{8}
+\contentsline {subsubsection}{\IeC {\'Z}r\IeC {\'o}d\IeC {\l }a elektroniczne}{9}
 \contentsline {section}{\numberline {3.2}Polskie akapity, cudzys\IeC {\l }owy, itp.}{9}
 \contentsline {section}{\numberline {3.3}Definicje i wyra\IeC {\.z}enia matematyczne}{9}
 \contentsline {section}{\numberline {3.4}Jak wstawia\IeC {\'c} rysunki? tabele? }{10}
 \contentsline {section}{\numberline {3.5}Listy wypunktowana i numerowana}{10}
-\contentsline {section}{\numberline {3.6}Przenoszenie wyraz\IeC {\'o}w}{11}
-\contentsline {chapter}{\numberline {4}Technologie i metody u\IeC {\.z}yte...}{12}
-\contentsline {section}{\numberline {4.1}Sprz\IeC {\k e}t}{12}
-\contentsline {subsection}{\numberline {4.1.1}Element 1}{12}
-\contentsline {subsection}{\numberline {4.1.2}Element 2}{12}
-\contentsline {section}{\numberline {4.2}Oprogramowanie}{12}
-\contentsline {subsection}{\numberline {4.2.1}Serwer baz danych}{12}
-\contentsline {subsection}{\numberline {4.2.2}\IeC {\'S}rodowisko zintegrowane}{13}
-\contentsline {subsection}{\numberline {4.2.3}Oprogramowanie klienckie}{13}
-\contentsline {section}{\numberline {4.3}Technologie i metodologie programistyczne}{13}
-\contentsline {subsection}{\numberline {4.3.1}J\IeC {\k e}zyk programowania}{13}
-\contentsline {subsection}{\numberline {4.3.2}Biblioteki}{13}
-\contentsline {subsection}{\numberline {4.3.3}Wzorce projektowe}{13}
-\contentsline {section}{\numberline {4.4}Inne, np. narz\IeC {\k e}dzia i metody symulacji, }{13}
-\contentsline {chapter}{\numberline {5}Aplikacja/system/projekt "XYZ"}{14}
-\contentsline {section}{\numberline {5.1}Analiza wymaga\IeC {\'n}}{14}
-\contentsline {subsection}{\numberline {5.1.1}Studium mo\IeC {\.z}liwo\IeC {\'s}ci}{14}
-\contentsline {subsection}{\numberline {5.1.2}Wymagania funkcjonalne}{14}
-\contentsline {subsection}{\numberline {5.1.3}Ograniczenia projektu}{14}
-\contentsline {section}{\numberline {5.2}Projekt}{14}
-\contentsline {subsection}{\numberline {5.2.1}Projekt warstwy danych}{14}
-\contentsline {subsection}{\numberline {5.2.2}Projekt warstwy logiki}{14}
-\contentsline {subsection}{\numberline {5.2.3}Projekt warstwy interfejsu u\IeC {\.z}ytkownika}{15}
-\contentsline {subsubsection}{Wyb\IeC {\'o}r \IeC {\'s}rodowiska i platformy dzia\IeC {\l }ania}{15}
-\contentsline {subsubsection}{Rodzaj aplikacji (klient-serwer, thick/thin client, aplikacja ,,biurkowa'', us\IeC {\l }uga, klient hybrydowy, itp.}{15}
-\contentsline {subsubsection}{Technologie projektowania i realizacji interfejsu u\IeC {\.z}ytkownika, np. biblioteki}{15}
-\contentsline {section}{\numberline {5.3}Implementacja: punkty kluczowe}{15}
-\contentsline {section}{\numberline {5.4}Testy i wdro\IeC {\.z}enie}{15}
-\contentsline {subsection}{\numberline {5.4.1}Testy wydajno\IeC {\'s}ci}{15}
-\contentsline {subsection}{\numberline {5.4.2}Testy regresyjne}{15}
-\contentsline {subsection}{\numberline {5.4.3}Testy bezpiecze\IeC {\'n}stwa}{15}
-\contentsline {subsection}{\numberline {5.4.4}Dalsze testy}{15}
-\contentsline {subsection}{\numberline {5.4.5}Testy...}{15}
-\contentsline {section}{\numberline {5.5}Konserwacja i in\IeC {\.z}ynieria wt\IeC {\'o}rna}{15}
-\contentsline {chapter}{\numberline {6}Podsumowanie}{16}
-\contentsline {section}{\numberline {6.1}Dyskusja wynik\IeC {\'o}w}{16}
-\contentsline {section}{\numberline {6.2}Ocena mo\IeC {\.z}liwo\IeC {\'s}ci wdro\IeC {\.z}enia...}{16}
-\contentsline {section}{\numberline {6.3}Perspektywy dalszych bada\IeC {\'n} w dziedzinie}{16}
-\contentsline {chapter}{Bibliografia}{16}
-\contentsline {chapter}{Spis rysunk\IeC {\'o}w}{17}
-\contentsline {chapter}{Spis tabel}{18}
-\contentsline {chapter}{Za\IeC {\l }\IeC {\k a}czniki}{19}
+\contentsline {section}{\numberline {3.6}Przenoszenie wyraz\IeC {\'o}w}{12}
+\contentsline {chapter}{\numberline {4}Technologie i metody u\IeC {\.z}yte...}{13}
+\contentsline {section}{\numberline {4.1}Sprz\IeC {\k e}t}{13}
+\contentsline {subsection}{\numberline {4.1.1}Element 1}{13}
+\contentsline {subsection}{\numberline {4.1.2}Element 2}{13}
+\contentsline {section}{\numberline {4.2}Oprogramowanie}{13}
+\contentsline {subsection}{\numberline {4.2.1}Serwer baz danych}{13}
+\contentsline {subsection}{\numberline {4.2.2}\IeC {\'S}rodowisko zintegrowane}{14}
+\contentsline {subsection}{\numberline {4.2.3}Oprogramowanie klienckie}{14}
+\contentsline {section}{\numberline {4.3}Technologie i metodologie programistyczne}{14}
+\contentsline {subsection}{\numberline {4.3.1}J\IeC {\k e}zyk programowania}{14}
+\contentsline {subsection}{\numberline {4.3.2}Biblioteki}{14}
+\contentsline {subsection}{\numberline {4.3.3}Wzorce projektowe}{14}
+\contentsline {section}{\numberline {4.4}Inne, np. narz\IeC {\k e}dzia i metody symulacji, }{14}
+\contentsline {chapter}{\numberline {5}Aplikacja/system/projekt "XYZ"}{15}
+\contentsline {section}{\numberline {5.1}Analiza wymaga\IeC {\'n}}{15}
+\contentsline {subsection}{\numberline {5.1.1}Studium mo\IeC {\.z}liwo\IeC {\'s}ci}{15}
+\contentsline {subsection}{\numberline {5.1.2}Wymagania funkcjonalne}{15}
+\contentsline {subsection}{\numberline {5.1.3}Ograniczenia projektu}{15}
+\contentsline {section}{\numberline {5.2}Projekt}{15}
+\contentsline {subsection}{\numberline {5.2.1}Projekt warstwy danych}{15}
+\contentsline {subsection}{\numberline {5.2.2}Projekt warstwy logiki}{15}
+\contentsline {subsection}{\numberline {5.2.3}Projekt warstwy interfejsu u\IeC {\.z}ytkownika}{16}
+\contentsline {subsubsection}{Wyb\IeC {\'o}r \IeC {\'s}rodowiska i platformy dzia\IeC {\l }ania}{16}
+\contentsline {subsubsection}{Rodzaj aplikacji (klient-serwer, thick/thin client, aplikacja ,,biurkowa'', us\IeC {\l }uga, klient hybrydowy, itp.}{16}
+\contentsline {subsubsection}{Technologie projektowania i realizacji interfejsu u\IeC {\.z}ytkownika, np. biblioteki}{16}
+\contentsline {section}{\numberline {5.3}Implementacja: punkty kluczowe}{16}
+\contentsline {section}{\numberline {5.4}Testy i wdro\IeC {\.z}enie}{16}
+\contentsline {subsection}{\numberline {5.4.1}Testy wydajno\IeC {\'s}ci}{16}
+\contentsline {subsection}{\numberline {5.4.2}Testy regresyjne}{16}
+\contentsline {subsection}{\numberline {5.4.3}Testy bezpiecze\IeC {\'n}stwa}{16}
+\contentsline {subsection}{\numberline {5.4.4}Dalsze testy}{16}
+\contentsline {subsection}{\numberline {5.4.5}Testy...}{16}
+\contentsline {section}{\numberline {5.5}Konserwacja i in\IeC {\.z}ynieria wt\IeC {\'o}rna}{16}
+\contentsline {chapter}{\numberline {6}Podsumowanie}{17}
+\contentsline {section}{\numberline {6.1}Dyskusja wynik\IeC {\'o}w}{17}
+\contentsline {section}{\numberline {6.2}Ocena mo\IeC {\.z}liwo\IeC {\'s}ci wdro\IeC {\.z}enia...}{17}
+\contentsline {section}{\numberline {6.3}Perspektywy dalszych bada\IeC {\'n} w dziedzinie}{17}
+\contentsline {chapter}{Bibliografia}{17}
+\contentsline {chapter}{Spis rysunk\IeC {\'o}w}{18}
+\contentsline {chapter}{Spis tabel}{19}
+\contentsline {chapter}{Za\IeC {\l }\IeC {\k a}czniki}{20}
