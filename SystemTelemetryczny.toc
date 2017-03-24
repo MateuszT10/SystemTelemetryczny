@@ -1,64 +1,8 @@
 \select@language {polish}
-\contentsline {chapter}{\numberline {1}Wst\IeC {\k e}p}{4}
-\contentsline {chapter}{\numberline {2}Cel i zakres pracy}{5}
-\contentsline {section}{\numberline {2.1}Podstawowe definicje}{5}
-\contentsline {section}{\numberline {2.2}Istniej\IeC {\k a}ce rozwi\IeC {\k a}zania w dziedzinie}{5}
-\contentsline {subsection}{\numberline {2.2.1}Sprz\IeC {\k e}t}{5}
-\contentsline {subsection}{\numberline {2.2.2}Oprogramowanie i wdro\IeC {\.z}one systemy}{5}
-\contentsline {subsection}{\numberline {2.2.3}}{5}
-\contentsline {section}{\numberline {2.3}Wady i s\IeC {\l }abe punkty istniej\IeC {\k a}cych rozwi\IeC {\k a}za\IeC {\'n}}{5}
-\contentsline {subsection}{\numberline {2.3.1}Efektywno\IeC {\'s}\IeC {\'c}}{5}
-\contentsline {subsection}{\numberline {2.3.2}Utrudniony dost\IeC {\k e}p}{6}
-\contentsline {subsection}{\numberline {2.3.3}Wysokie koszty}{6}
-\contentsline {chapter}{\numberline {3}Teoria}{7}
-\contentsline {section}{\numberline {3.1}Bibliografia i przypisy}{7}
-\contentsline {subsubsection}{\IeC {\'Z}r\IeC {\'o}d\IeC {\l }a elektroniczne}{7}
-\contentsline {section}{\numberline {3.2}Polskie akapity, cudzys\IeC {\l }owy, itp.}{8}
-\contentsline {section}{\numberline {3.3}Definicje i wyra\IeC {\.z}enia matematyczne}{8}
-\contentsline {section}{\numberline {3.4}Jak wstawia\IeC {\'c} rysunki? tabele? }{9}
-\contentsline {section}{\numberline {3.5}Listy wypunktowana i numerowana}{9}
-\contentsline {section}{\numberline {3.6}Przenoszenie wyraz\IeC {\'o}w}{10}
-\contentsline {chapter}{\numberline {4}Technologie i metody u\IeC {\.z}yte...}{11}
-\contentsline {section}{\numberline {4.1}Sprz\IeC {\k e}t}{11}
-\contentsline {subsection}{\numberline {4.1.1}Element 1}{11}
-\contentsline {subsection}{\numberline {4.1.2}Element 2}{11}
-\contentsline {section}{\numberline {4.2}Oprogramowanie}{11}
-\contentsline {subsection}{\numberline {4.2.1}Serwer baz danych}{11}
-\contentsline {subsection}{\numberline {4.2.2}\IeC {\'S}rodowisko zintegrowane}{12}
-\contentsline {subsection}{\numberline {4.2.3}Oprogramowanie klienckie}{12}
-\contentsline {section}{\numberline {4.3}Technologie i metodologie programistyczne}{12}
-\contentsline {subsection}{\numberline {4.3.1}J\IeC {\k e}zyk programowania}{12}
-\contentsline {subsection}{\numberline {4.3.2}Biblioteki}{12}
-\contentsline {subsection}{\numberline {4.3.3}Wzorce projektowe}{12}
-\contentsline {section}{\numberline {4.4}Inne, np. narz\IeC {\k e}dzia i metody symulacji, }{12}
-\contentsline {chapter}{\numberline {5}Konstrukcja urz\IeC {\k a}dzenia}{13}
-\contentsline {section}{\numberline {5.1}Schemat blokowy}{13}
-\contentsline {subsection}{\numberline {5.1.1}Studium mo\IeC {\.z}liwo\IeC {\'s}ci}{13}
-\contentsline {subsection}{\numberline {5.1.2}Wymagania funkcjonalne}{13}
-\contentsline {subsection}{\numberline {5.1.3}Ograniczenia projektu}{13}
-\contentsline {section}{\numberline {5.2}Dob\IeC {\'o}r element\IeC {\'o}w}{13}
-\contentsline {subsection}{\numberline {5.2.1}Projekt warstwy danych}{13}
-\contentsline {subsection}{\numberline {5.2.2}Projekt warstwy logiki}{13}
-\contentsline {subsection}{\numberline {5.2.3}Projekt warstwy interfejsu u\IeC {\.z}ytkownika}{14}
-\contentsline {subsubsection}{Wyb\IeC {\'o}r \IeC {\'s}rodowiska i platformy dzia\IeC {\l }ania}{14}
-\contentsline {subsubsection}{Rodzaj aplikacji (klient-serwer, thick/thin client, aplikacja ,,biurkowa'', us\IeC {\l }uga, klient hybrydowy, itp.}{14}
-\contentsline {subsubsection}{Technologie projektowania i realizacji interfejsu u\IeC {\.z}ytkownika, np. biblioteki}{14}
-\contentsline {section}{\numberline {5.3}Dob\IeC {\'o}r warto\IeC {\'s}ci element\IeC {\'o}w}{14}
-\contentsline {section}{\numberline {5.4}Schemat blokowy}{14}
-\contentsline {subsection}{\numberline {5.4.1}Testy wydajno\IeC {\'s}ci}{14}
-\contentsline {subsection}{\numberline {5.4.2}Testy regresyjne}{14}
-\contentsline {subsection}{\numberline {5.4.3}Testy bezpiecze\IeC {\'n}stwa}{14}
-\contentsline {subsection}{\numberline {5.4.4}Dalsze testy}{14}
-\contentsline {subsection}{\numberline {5.4.5}Testy...}{14}
-\contentsline {section}{\numberline {5.5}Konserwacja i in\IeC {\.z}ynieria wt\IeC {\'o}rna}{14}
-\contentsline {chapter}{\numberline {6}Oprogramowanie}{15}
-\contentsline {section}{\numberline {6.1}Dob\IeC {\'o}r urz\IeC {\k a}dze\IeC {\'n}}{15}
-\contentsline {section}{\numberline {6.2}Ocena mo\IeC {\.z}liwo\IeC {\'s}ci wdro\IeC {\.z}enia...}{15}
-\contentsline {section}{\numberline {6.3}Schemat blokowy programu}{15}
-\contentsline {section}{\numberline {6.4}Opis szczeg\IeC {\'o}\IeC {\l }owy wybranych funkcji}{15}
-\contentsline {chapter}{Bibliografia}{15}
-\contentsline {chapter}{Spis rysunk\IeC {\'o}w}{16}
-\contentsline {chapter}{Spis tabel}{17}
-\contentsline {chapter}{\numberline {7}Weryfikacja dzia\IeC {\l }ania}{19}
-\contentsline {chapter}{\numberline {8}Podsumowanie}{20}
-\contentsline {chapter}{Za\IeC {\l }\IeC {\k a}czniki}{20}
+\contentsline {chapter}{\numberline {1}Wst\IeC {\k e}p}{3}
+\contentsline {chapter}{\numberline {2}Cel i zakres pracy}{4}
+\contentsline {chapter}{\numberline {3}Teoria}{5}
+\contentsline {chapter}{\numberline {4}Oprogramowanie}{6}
+\contentsline {chapter}{\numberline {5}Weryfikacja dzia\IeC {\l }ania}{7}
+\contentsline {chapter}{\numberline {6}Podsumowanie}{8}
+\contentsline {chapter}{Za\IeC {\l }\IeC {\k a}czniki}{8}
