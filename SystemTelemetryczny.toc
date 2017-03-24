@@ -5,4 +5,7 @@
 \contentsline {chapter}{\numberline {4}Oprogramowanie}{6}
 \contentsline {chapter}{\numberline {5}Weryfikacja dzia\IeC {\l }ania}{7}
 \contentsline {chapter}{\numberline {6}Podsumowanie}{8}
-\contentsline {chapter}{Za\IeC {\l }\IeC {\k a}czniki}{8}
+\contentsline {chapter}{Bibliografia}{8}
+\contentsline {chapter}{Spis rysunk\IeC {\'o}w}{9}
+\contentsline {chapter}{Spis tabel}{10}
+\contentsline {chapter}{Za\IeC {\l }\IeC {\k a}czniki}{11}
