@@ -8,7 +8,7 @@
 \contentsline {section}{\numberline {4.3}Dob\IeC {\'o}r warto\IeC {\'s}ci element\IeC {\'o}w}{6}
 \contentsline {section}{\numberline {4.4}Schemat ideowy}{6}
 \contentsline {chapter}{\numberline {5}Oprogramowanie}{7}
-\contentsline {section}{\numberline {5.1}Dob\IeC {\'o}r urz\IeC {\k a}dze\IeC {\'n}}{7}
+\contentsline {section}{\numberline {5.1}Dob\IeC {\'o}r urz\IeC {\k a}dze\IeC {\'n}?}{7}
 \contentsline {section}{\numberline {5.2}Schemat blokowy programu}{7}
 \contentsline {section}{\numberline {5.3}Opis szczeg\IeC {\'o}\IeC {\l }owy wybranych funkcji}{7}
 \contentsline {chapter}{\numberline {6}Weryfikacja dzia\IeC {\l }ania}{8}
